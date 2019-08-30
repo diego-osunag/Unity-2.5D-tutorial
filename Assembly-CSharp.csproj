@@ -53,9 +53,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\KeyboardInput.cs" />
-     <Compile Include="Assets\TestingCube.cs" />
-     <Compile Include="Assets\VirtualInputManager.cs" />
+     <Compile Include="Assets\Roundbeargames_Tutorial\InputDevices\KeyboardInput.cs" />
+     <Compile Include="Assets\Roundbeargames_Tutorial\Managers\Singleton.cs" />
+     <Compile Include="Assets\Roundbeargames_Tutorial\Managers\VirtualInputManager.cs" />
+     <Compile Include="Assets\Roundbeargames_Tutorial\TestingCube.cs" />
+     <None Include="Assets\BodyGuards\ReadMe.txt.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Unity/Projects/Tutorial2.5D/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
